@@ -1,0 +1,1122 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/asd/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Assets.Scripts.Interaction.HandDeActivation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Assets.Scripts.Interaction.HandDeActivation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Assets.Scripts.Interaction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Assets.Scripts.Interaction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Assets.Scripts.Optimization.FramerateTargeter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Assets.Scripts.Optimization.FramerateTargeter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Assets.Scripts.Optimization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Assets.Scripts.Optimization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Animation.CharacterAnimationSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Animation.CharacterAnimationSelector.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Animation.ClockAnimation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Animation.ClockAnimation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Animation.HandAnimation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Animation.HandAnimation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Animation.SkyBoxAnimator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Animation.SkyBoxAnimator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Animation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Animation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Common.CamTracer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Common.CamTracer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Common.IPause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Common.IPause.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Common.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Common.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Example.PunchBag.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Example.PunchBag.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Example.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Example.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.AHapticBroker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.AHapticBroker.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.Activation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.Activation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.ButtonTop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.ButtonTop.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.ButtonTrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.ButtonTrigger.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.Coffee.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.Coffee.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.Destroyer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.Destroyer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.DisinfectionHolder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.DisinfectionHolder.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.DrinkVending.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.DrinkVending.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.Edible.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.Edible.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.EdibleDestroyer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.EdibleDestroyer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.EdibleType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.EdibleType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.EdibleTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.EdibleTypes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.Football.BallReset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.Football.BallReset.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.Football.Kick.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.Football.Kick.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.Football.StickHaptic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.Football.StickHaptic.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.Football.Stopper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.Football.Stopper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.Football.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.Football.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.HandActivation.HandActiveAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.HandActivation.HandActiveAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.HandActivation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.HandActivation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.IDestroyable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.IDestroyable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.IIngameButtonLogic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.IIngameButtonLogic.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.Igbuttontest.IGButtonTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.Igbuttontest.IGButtonTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.Igbuttontest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.Igbuttontest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.InfoDroplet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.InfoDroplet.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.IngameButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.IngameButton.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.InputMapInitializer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.InputMapInitializer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.KnobCorrect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.KnobCorrect.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.KnobsMissionManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.KnobsMissionManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.LeftHapticBroker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.LeftHapticBroker.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.Mouth.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.Mouth.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.Mug.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.Mug.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.PingPong.PingPongItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.PingPong.PingPongItem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.PingPong.PingPongManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.PingPong.PingPongManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.PingPong.PingPongRoboAnimator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.PingPong.PingPongRoboAnimator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.PingPong.PingPongRoboHit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.PingPong.PingPongRoboHit.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.PingPong.PingPongSpawner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.PingPong.PingPongSpawner.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.PingPong.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.PingPong.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.RightHapticBroker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.RightHapticBroker.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.Rotate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.Rotate.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.RotateArounxAxis.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.RotateArounxAxis.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.Sprint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.Sprint.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.TeleportTrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.TeleportTrigger.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.Vatupassi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.Vatupassi.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.VuoksiHoop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.VuoksiHoop.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Interaction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Interaction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Manager.ISpawnAble.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Manager.ISpawnAble.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Manager.InteractionManagerSingleton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Manager.InteractionManagerSingleton.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Manager.MakeLoreManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Manager.MakeLoreManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Manager.NonDestructable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Manager.NonDestructable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Manager.PlayerSingleton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Manager.PlayerSingleton.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Manager.PlayerSpawn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Manager.PlayerSpawn.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Manager.SceneSwitcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Manager.SceneSwitcher.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Manager.SimpleSpawn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Manager.SimpleSpawn.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Manager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Manager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Mission.CodingMissionButtonAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Mission.CodingMissionButtonAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Mission.CodingMissionManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Mission.CodingMissionManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Mission.IMissionManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Mission.IMissionManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Mission.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Mission.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Optimization.FramerateTargeter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Optimization.FramerateTargeter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Optimization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Optimization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Pool.APool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Pool.APool.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Pool.APoolMember.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Pool.APoolMember.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Pool.Ball.BallPool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Pool.Ball.BallPool.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Pool.Ball.VuoksiBallPoolItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Pool.Ball.VuoksiBallPoolItem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Pool.Ball.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Pool.Ball.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Pool.Drink.DrinkPool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Pool.Drink.DrinkPool.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Pool.Drink.DrinkPoolMember.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Pool.Drink.DrinkPoolMember.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Pool.Drink.DrinkSpawnManager.DrinkStateChange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Pool.Drink.DrinkSpawnManager.DrinkStateChange.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Pool.Drink.DrinkSpawnManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Pool.Drink.DrinkSpawnManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Pool.Drink.DrinkSpawner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Pool.Drink.DrinkSpawner.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Pool.Drink.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Pool.Drink.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Pool.Test.TestPool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Pool.Test.TestPool.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Pool.Test.TestPoolItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Pool.Test.TestPoolItem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Pool.Test.TestSpawn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Pool.Test.TestSpawn.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Pool.Test.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Pool.Test.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.Pool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.Pool.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.UI.SceneSwitchRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.UI.SceneSwitchRequest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.UI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.UI.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.VuoksiBotti.AnimationManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.VuoksiBotti.AnimationManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.VuoksiBotti.BoomBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.VuoksiBotti.BoomBox.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.VuoksiBotti.BotInteractionDetector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.VuoksiBotti.BotInteractionDetector.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.VuoksiBotti.Mover.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.VuoksiBotti.Mover.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.VuoksiBotti.Talk.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.VuoksiBotti.Talk.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.VuoksiBotti.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.VuoksiBotti.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.World.Rope.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.World.Rope.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kekw.World.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kekw.World.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ActionBasedControllerManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ActionBasedControllerManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.DynamicMoveProvider.MovementDirection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.DynamicMoveProvider.MovementDirection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.DynamicMoveProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.DynamicMoveProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html"
+        },
+        ".json": {
+          "relative_path": "articles/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

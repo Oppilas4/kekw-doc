@@ -1,0 +1,284 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>Namespace Kekw.Interaction
+ </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="title" content="Namespace Kekw.Interaction
+ ">
+      
+      <link rel="icon" href="../favicon.ico">
+      <link rel="stylesheet" href="../styles/docfx.min.css">
+      <link rel="stylesheet" href="../styles/main.css">
+      <meta name="docfx:navrel" content="../toc.html">
+      <meta name="docfx:tocrel" content="toc.html">
+      
+      
+      
+
+      <script>
+        MathJax = {
+          options: {
+            processHtmlClass: ['tex2jax_process', 'math']
+          }
+        };
+      </script>
+
+      <script type="text/javascript" src="../styles/docfx.min.js"></script>
+      <script type="text/javascript" src="../styles/main.js"></script>
+  </head>
+
+  <body class="tex2jax_ignore" data-layout="" data-yaml-mime="ManagedReference">
+    <header class="bg-body border-bottom">
+      <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
+        <div class="container-xxl flex-nowrap">
+          <a class="navbar-brand" href="../index.html">
+            <img id="logo" class="svg" src="../logo.svg" alt="">
+            
+          </a>
+          <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="bi bi-three-dots"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navpanel">
+            <div id="navbar">
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container-xxl">
+      <div class="toc-offcanvas">
+        <div class="offcanvas-md offcanvas-start" tabindex="-1" id="tocOffcanvas" aria-labelledby="tocOffcanvasLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="tocOffcanvasLabel">Table of Contents</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tocOffcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            <nav class="toc" id="toc"></nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="actionbar">
+          <button class="btn btn-lg border-0 d-md-none" style="margin-top: -.65em; margin-left: -.8em" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocOffcanvas" aria-controls="tocOffcanvas" aria-expanded="false" aria-label="Show table of contents">
+            <i class="bi bi-list"></i>
+          </button>
+
+          <nav id="breadcrumb"></nav>
+        </div>
+
+        <article data-uid="Kekw.Interaction">
+
+  <h1 id="Kekw_Interaction" data-uid="Kekw.Interaction" class="text-break">Namespace Kekw.Interaction
+</h1>
+  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="markdown level0 remarks"></div>
+
+    <h3 id="classes">Classes
+</h3>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.AHapticBroker.html">AHapticBroker</a></dt>
+      <dd><p>Abstract base class, transmits haptic request to XrController component.
+Sub classes attach to same component as XRController that we want to control.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.Activation.html">Activation</a></dt>
+      <dd><p>Activates not active gameobject when collision enters.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.ButtonTop.html">ButtonTop</a></dt>
+      <dd><p>Component sends haptic feedback when button bottom trigger is collided with.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.ButtonTrigger.html">ButtonTrigger</a></dt>
+      <dd><p>Ingame button base, collision detection against top part of button.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.Coffee.html">Coffee</a></dt>
+      <dd><p>Coffee pan behaviour.
+When coffee pan is picked up and detects mug it starts to play pouring VFX.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.Destroyer.html">Destroyer</a></dt>
+      <dd><p>Destroy game objects if they hit fool or killplane.
+Detection happens with tags 'Floor' and 'KillPlane'.<br><br><br>
+This gameobject should also contain script that implements <a class="xref" href="Kekw.Interaction.IDestroyable.html">IDestroyable</a> interface that handles actual destroying.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.DisinfectionHolder.html">DisinfectionHolder</a></dt>
+      <dd><p>Hand sanitizer bottle thingy behaviour.<br><br>
+Instantiates vfx effect when button is pressed.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.DrinkVending.html">DrinkVending</a></dt>
+      <dd><p>Drink vending machine.<br><br>
+Machine uses drink pool that must be in scene in advance. Can only spawn one drink at the time.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.Edible.html">Edible</a></dt>
+      <dd><p>Eatable item uses this component.<br><br>
+Eatabe items consists of multiple meshes some are full and some are &quot;eaten&quot;.
+Component toggles between these meshes and finally destroys object if meshes end.
+Object is also destroyed if it hits the floor tag collider.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.EdibleDestroyer.html">EdibleDestroyer</a></dt>
+      <dd><p>Destroys edible when it hits floor. Very similar to <a class="xref" href="Kekw.Interaction.Destroyer.html">Destroyer</a>.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.EdibleType.html">EdibleType</a></dt>
+      <dd><p>Kinda edible what we are intetracting with.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.HandActivation.html">HandActivation</a></dt>
+      <dd><p>Hand activation control. Provides event where state changes can be listened.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.InfoDroplet.html">InfoDroplet</a></dt>
+      <dd><p>Info droplets tell player info about school.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.IngameButton.html">IngameButton</a></dt>
+      <dd><p>Ingame button that works with slapping/pushing.
+Relies to <a class="xref" href="Kekw.Interaction.IIngameButtonLogic.html">IIngameButtonLogic</a>.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.InputMapInitializer.html">InputMapInitializer</a></dt>
+      <dd><p>Disables bot interaction map at the beginning of the play.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.KnobCorrect.html">KnobCorrect</a></dt>
+      <dd><p>Knobs hit this collider and when knob is detected sends signal to <a class="xref" href="Kekw.Mission.IMissionManager.html">IMissionManager</a>.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.KnobsMissionManager.html">KnobsMissionManager</a></dt>
+      <dd><p>Make easter egg scene mission manager.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.LeftHapticBroker.html">LeftHapticBroker</a></dt>
+      <dd><p>Left hand controller haptic broker.<br><br>
+Can be found by type in scene.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.Mouth.html">Mouth</a></dt>
+      <dd><p>Playable character mouth implementation.
+Plays correct sounds and vfx effect based on collider that hits mouth.
+Relies heavily to <a class="xref" href="Kekw.Interaction.EdibleType.html">EdibleType</a>.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.Mug.html">Mug</a></dt>
+      <dd><p>Coffee mug. Can be filled and emptied.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.RightHapticBroker.html">RightHapticBroker</a></dt>
+      <dd><p>Right hand controller haptic broker.<br><br>
+Can be found by type in scene.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.Rotate.html">Rotate</a></dt>
+      <dd><p>Rotates make esteregg mission knobs.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.Sprint.html">Sprint</a></dt>
+      <dd><p>Character sprint ability. Character is able to sprint when sprint button is held.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.TeleportTrigger.html">TeleportTrigger</a></dt>
+      <dd><p>Detecs player entering to teleport area.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.Vatupassi.html">Vatupassi</a></dt>
+      <dd><p>Class measures angles when shit should be coming out of can or some other source.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.VuoksiHoop.html">VuoksiHoop</a></dt>
+      <dd><p>Vuoksi hoop ball detector.</p>
+</dd>
+    </dl>
+    <h3 id="interfaces">Interfaces
+</h3>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.IDestroyable.html">IDestroyable</a></dt>
+      <dd><p>If object needs to be destroyed use this interface with Destroyer
+<a class="xref" href="Kekw.Interaction.Destroyer.html">Destroyer</a>
+<a class="xref" href="Kekw.Interaction.Mug.html">Mug</a></p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.IIngameButtonLogic.html">IIngameButtonLogic</a></dt>
+      <dd><p>Ingame button target script will implement this interface.</p>
+</dd>
+    </dl>
+    <h3 id="enums">Enums
+</h3>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.EdibleTypes.html">EdibleTypes</a></dt>
+      <dd><p>Edibte type definations. Edibles consist of 2 types.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.RotateArounxAxis.html">RotateArounxAxis</a></dt>
+      <dd><p>Enum representing axis in world.</p>
+</dd>
+    </dl>
+    <h3 id="delegates">Delegates
+</h3>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Kekw.Interaction.HandActivation.HandActiveAction.html">HandActivation.HandActiveAction</a></dt>
+      <dd><p>Event type</p>
+</dd>
+    </dl>
+
+
+</article>
+
+        <div class="contribution d-print-none">
+        </div>
+
+        
+      </div>
+
+      <div class="affix">
+        <nav id="affix"></nav>
+      </div>
+    </main>
+
+
+    <footer class="border-top">
+      <div class="container-xxl">
+        <div class="flex-fill">
+          <span>Made with <a href="https://dotnet.github.io/docfx">docfx</a></span>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
